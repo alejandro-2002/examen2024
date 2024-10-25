@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color : white;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: red;
+    font-size: 55px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
